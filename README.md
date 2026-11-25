@@ -70,9 +70,8 @@ El repositorio también contiene diagramas de diseño, documentos de retrospecti
 
 ## Integrantes
 
-- Mateo Sánchez García
-- Wilmar Edison Beltrán
-- Santiago Hernández Sarmiento
+- Laura Valentina Fonseca Ramírez
+- Santiago Rojas Gómez
 
 ## Información académica
 
